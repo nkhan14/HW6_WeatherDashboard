@@ -11,6 +11,7 @@ SO THAT I can plan a trip accordingly
 
 ```
 GIVEN a weather dashboard with form inputs:
+
 * WHEN I search for a city, 
 THEN I am presented with current and future conditions for that city 
 & that city is added to the search history
@@ -31,12 +32,27 @@ THEN I am again presented with current and future conditions for that city
 ```
 Here is an example of what it should look like:
 
+[![GIF of Web App](link)]
+
 ```
 
-**Challenges**
+**Challenges | Comments**
 
 ```
 Some of the challenges I encountered while creating this:
+
+* I had a hard-time with some JavaScript in this. Thankfully we did our
+projects the week before, and I was able to use that to follow along.
+* I wanted ti use UIkits, but was having a hard time to make the
+containers/columns the way I wanted to.
+* I am not fully satisfied by the way the look of the Web App is,
+if given more time, I would like to change it
+* Time was of the essence here. I had a weird guilt when logging
+into BootCamp spot and seeing it as an "overdue" assignment,
+eventhough I knew it wasnt. I felt rushed.
+* Also creating a GIF was hard. I could have gotten away with just an 
+image, but I wanted to spice it up!
+* It was a good precap of our first third of class overall
 
 ```
 
