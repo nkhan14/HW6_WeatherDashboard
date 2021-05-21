@@ -124,6 +124,18 @@ function initPage() {
     localStorage.setItem("search", JSON.stringify(searchHistory));
     renderSearchHistory();
   });
+
+  // clear icon event listener
+  clearEl.addEventListener("click", function () {
+    searchHistory = [];
+    renderSearchHistory();
+  });
+
+  // converting to fahrenheit
+  function k2f(K) {
+    return Math.floor((K - 273.15) * 1.8 + 32);
+  };
+
   
 }
 initPage();
