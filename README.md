@@ -32,7 +32,7 @@ THEN I am again presented with current and future conditions for that city
 ```
 Here is an example of what it should look like:
 
-![](HW6_WeatherDashboard/images/ezgif.com-gif-maker.png)
+![](./images/ezgif.com-gif-maker.png)
 
 ```
 
