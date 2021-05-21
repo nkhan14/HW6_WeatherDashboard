@@ -29,12 +29,10 @@ THEN I am again presented with current and future conditions for that city
 ```
 **Mock-Up**
 
-```
 Here is an example of what it should look like:
 
 ![](./images/ezgif.com-gif-maker.png)
 
-```
 
 **Challenges | Comments**
 
